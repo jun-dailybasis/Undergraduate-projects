@@ -1,0 +1,29 @@
+﻿<Window x:Class="UbisamIntern_Project.fun3_ConvertToPDF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UbisamIntern_Project"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Convert To PDF" Height="202" Width="489.5" KeyDown="ConvertToPDF_KeyDown">
+    <Grid Background="#FFE6E6E6">
+        <GroupBox x:Name="groupBox_SaveTo" Header="Save to" HorizontalAlignment="Left" Height="106" Margin="10,7,0,0"  VerticalAlignment="Top" Width="450" BorderBrush="#FF0E0F17">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton GroupName="SaveTo" x:Name="radioButton_Save_Source" Content="Source Folder" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" VerticalAlignment="Center" Width="130" VerticalContentAlignment="Center"/>
+                    <TextBox x:Name="textBox_Save_Source" Width="287" Text="(Auto)" IsEnabled="False" UndoLimit="98" Margin="0,10,0,0" Foreground="#FF8B8B8B"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton GroupName="SaveTo" x:Name="radioButton_Save_Destination" Content="Destination Folder" HorizontalAlignment="Left" Height="23" Margin="10,0,0,0" VerticalAlignment="Top" Width="130" VerticalContentAlignment="Center"/>
+                    <TextBox x:Name="textBox_Save_Destination" Text="Click to select the folder"  Width="287" PreviewMouseLeftButtonDown="textBox_Save_Destination_PreviewMouseLeftButtonDown" BorderBrush="#FFABADB3" Foreground="#FFB8B8B8" Focusable="False" IsTabStop="False" ></TextBox>
+                </StackPanel>
+                <RadioButton GroupName="SaveTo" x:Name="radioButton_Save_Manual" Content="Manual" HorizontalAlignment="Left" Height="23" Margin="10,0,0,0" VerticalAlignment="Top" Width="130" VerticalContentAlignment="Center" IsChecked="True"/>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="btnConvert" HorizontalAlignment="Left" Margin="385,127,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnConvert_Click" BorderBrush="#FF000070">
+            <TextBlock><Underline><Run Text="C"/></Underline><Run Text="onvert"/></TextBlock>
+        </Button>
+
+    </Grid>
+</Window>

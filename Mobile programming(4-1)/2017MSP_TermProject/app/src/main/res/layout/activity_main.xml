@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:background="#ffbf00">
+        <TextView
+            android:id="@+id/movingTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/Moving_Time"
+            android:textSize="15pt"
+            />
+        <TextView
+            android:id="@+id/stepCount"
+            android:layout_below="@+id/movingTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/Step_Count"
+            android:textSize="15pt"
+
+            />
+        <TextView
+            android:id="@+id/topPlace"
+            android:layout_below="@+id/step"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/Top_place"
+            android:textSize="15pt"
+            />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="40">
+        <TextView
+            android:id="@+id/ismoving"
+            android:text="ismoving"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="8pt"/>
+        <TextView
+            android:id="@+id/loglat"
+            android:text="lonlat"
+            android:layout_below="@+id/ismoving"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="8pt"/>
+        <ListView
+            android:id="@+id/listview"
+            android:layout_below="@+id/loglat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#00ff00"
+            android:dividerHeight="3dp"
+            android:textSize="8pt">
+
+        </ListView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/start"
+            android:layout_toLeftOf="@+id/bcenter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal|center_vertical"
+            android:onClick="onClick"
+            android:text="start"
+            android:textSize="15pt"/>
+
+        <RelativeLayout
+            android:id="@+id/bcenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+        </RelativeLayout>
+        <Button
+            android:id="@+id/stop"
+            android:layout_toRightOf="@+id/bcenter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal|center_vertical"
+            android:onClick="onClick"
+            android:text="stop"
+            android:textSize="15pt"/>
+    </RelativeLayout>
+
+</LinearLayout>

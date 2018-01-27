@@ -1,0 +1,25 @@
+﻿<Window x:Class="UbisamIntern_Project.Rename_Dialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UbisamIntern_Project"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="" Height="137" Width="246.574" KeyDown="RenameDl_KeyDown">
+    <Grid Background="#FFE6E6E6">
+        
+        <TextBox x:Name="textBox1"  HorizontalAlignment="Left" Height="21" Margin="20,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194"/>
+        <Button x:Name ="btnEnter" HorizontalAlignment="Left" Margin="20,60,0,0" VerticalAlignment="Top" Width="85" Height="24" Click="btnEnter_Click">
+            <TextBlock>
+                  Enter
+            </TextBlock>
+        </Button>
+        <Button x:Name ="okCancel" HorizontalAlignment="Left" Margin="139,60,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.126,-0.023" Click="cancelBtn_Click">
+            <TextBlock>
+                   Cancel
+            </TextBlock>
+        </Button>
+        <TextBlock x:Name ="textBox2"  HorizontalAlignment="Left" Margin="10,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214" Height="18" FontWeight="Bold" TextAlignment="Center"/>
+    </Grid>
+</Window>

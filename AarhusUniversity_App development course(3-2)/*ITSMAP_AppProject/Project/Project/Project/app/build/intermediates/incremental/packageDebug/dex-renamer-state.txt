@@ -1,0 +1,7 @@
+#Thu Oct 20 19:22:19 CEST 2016
+base.0=C\:\\Users\\Zuryuk\\Documents\\Projects\\Project_latest\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1f138730e393c0830027c8270a19bacda08bf160
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Zuryuk\\Documents\\Projects\\Project_latest\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cb051a4643e2653812278a284acd6bc986e3a0ab\\classes.dex
+base.1=C\:\\Users\\Zuryuk\\Documents\\Projects\\Project_latest\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cb051a4643e2653812278a284acd6bc986e3a0ab
+file.0=C\:\\Users\\Zuryuk\\Documents\\Projects\\Project_latest\\Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1f138730e393c0830027c8270a19bacda08bf160\\classes.dex

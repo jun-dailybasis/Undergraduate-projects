@@ -1,0 +1,310 @@
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\directory.g.cs
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\MainWindow.g.cs
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\App.g.cs
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\WpfApplication2.exe
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\WpfApplication2.pdb
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\directory.baml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\MainWindow.baml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.exe
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\WpfApplication2.pdb
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\App.baml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\PrintTest.g.cs
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Ghostscript.NET.dll
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Ghostscript.NET.xml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\PrintTest.baml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\itextsharp.dll
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\itextsharp.xml
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\PdfSearch.g.cs
+c:\users\jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\PdfSearch.baml
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\AppConverter.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\AppConverter.baml
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\renamefunction.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\renameWindow.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\repathFunction.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\repathWindow.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\renamefunction.baml
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\renameWindow.baml
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\repathFunction.baml
+C:\Users\Jihoon\documents\visual studio 2015\Projects\WpfApplication2\obj\Debug\repathWindow.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\AppConverter.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\directory.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\PdfSearch.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\PrintTest.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\renamefunction.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\renameWindow.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\repathFunction.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\repathWindow.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\App.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Ghostscript.NET.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\Ghostscript.NET.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\App.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\AppConverter.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\directory.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\PdfSearch.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\PrintTest.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\renamefunction.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\renameWindow.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\repathFunction.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\repathWindow.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\wordChangeWindow.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\2차(우리)\WpfApplication2\obj\Debug\wordChangeWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\AppConverter.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\directory.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\PdfSearch.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\PrintTest.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\renamefunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\renameWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\repathFunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\repathWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\wordChangeWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\AppConverter.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\directory.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\PdfSearch.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\PrintTest.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\renamefunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\renameWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\repathFunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\repathWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\wordChangeWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\AppConverter.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\directory.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\PdfSearch.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\PrintTest.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\renamefunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\renameWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\repathFunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\repathWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\wordChangeWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\AppConverter.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\directory.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\PdfSearch.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\PrintTest.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\renamefunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\renameWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\repathFunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\repathWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\wordChangeWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\WpfApplication2.exe.config
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.exe
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.pdb
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\WpfApplication2.exe
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\WpfApplication2.pdb
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Ghostscript.NET.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\itextsharp.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\Ghostscript.NET.xml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\bin\Debug\itextsharp.xml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\AppConverter.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\directory.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\MainWindow.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\PdfSearch.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\PrintTest.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\renamefunction.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\renameWindow.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\repathFunction.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\repathWindow.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\wordChangeWindow.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\App.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\App.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\AppConverter.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\directory.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\MainWindow.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\PdfSearch.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\PrintTest.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\renamefunction.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\renameWindow.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\repathFunction.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\repathWindow.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\wordChangeWindow.baml
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.g.resources
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\esren\OneDrive\문서\카카오톡 받은 파일\Uip (2)\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\AppConverter.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\directory.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\PdfSearch.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\PrintTest.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\renamefunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\renameWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\repathFunction.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\repathWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\wordChangeWindow.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\AppConverter.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\directory.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\PdfSearch.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\PrintTest.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\renamefunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\renameWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\repathFunction.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\repathWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\wordChangeWindow.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\Uip (3)\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\AppConverter.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\directory.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PdfSearch.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintTest.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\renamefunction.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\renameWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\repathFunction.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\repathWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\wordChangeWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\AppConverter.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\directory.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PdfSearch.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintTest.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\renamefunction.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\renameWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\repathFunction.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\repathWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\wordChangeWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintDuplex.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintDuplex.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintHeader.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\PrintHeader.baml

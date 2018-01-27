@@ -1,0 +1,33 @@
+Welcome to the course on user interfaces for embedded systems.
+ 
+Please acquire the course book before the course starts:
+
+Interaction Design: Beyond Human-Computer Interaction, 4th Edition
+(Interaction Design: Beyond Human - Computer Interaction, 3rd Edition may also be used. This may give us minor problems though)
+by Yvonne Rogers, Helen Sharp, Jenny Preece
+Wiley, February 2015, ©2015
+ 
+Practicalities
+- Teaching starts November 10th.
+- When: Fall 2014, Q2
+- Course load: 5 ECTS over 6 weeks / 12 lectures
+- Level: Undergraduate course
+- Language of instruction: English 
+- Lecturer Stefan Wagner, office E304, sw@iha.dk
+
+Literature
+- Y. Rogers, H. Sharp, J. Preece, Interaction Design: Beyond Human - Computer Interaction, 4th Edition,  Wiley, 2015
+- T. Tullis and B. Albert, Measuring the user experience, Morgan Kaufmann, 2008 (two chapters to be handed out via fileshare)
+- Companion website: www.measuringux.com
+- Other literature provided during the course to be handed out as pdf via fileshare
+ 
+Project work
+- The course features a project where you will utilize all the knowledge you have gained
+- The project structure is described in the course note
+- The project is handed in at different stages of completion. The stages are described in the course note
+- Hand in via Blackboard. Remember to check the deadlines.
+- Only feedback on class
+
+Exam:
+- Fail/pass DK students
+- Oral exam 7-scale INT students

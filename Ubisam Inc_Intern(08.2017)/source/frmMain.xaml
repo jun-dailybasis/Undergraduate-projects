@@ -1,0 +1,55 @@
+﻿<Window x:Class="UbisamIntern_Project.frmMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UbisamIntern_Project"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="UIP v0.1" Height="347" Width="424" KeyDown="Main_KeyDown" Activated="Window_Activated">
+    <Grid Background="#FFE6E6E6" x:Name="mainGrid">
+        <StackPanel VerticalAlignment="Top">
+            <Menu Width="Auto" Height="20" Background="#FFE6E6E6">
+                <MenuItem Header="Menu" >
+                    <MenuItem x:Name="Fun01" FontSize="12" Header="Duplex Print (D)" Icon="  1" HorizontalAlignment="Left" Width="210" Click="btnDuplexPrint_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun02" FontSize="12" Header="Directory List and Print (L)" Icon="  2" HorizontalAlignment="Left" Width="230" Click="btnDirListAndPrint_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB" Margin="0,0,-20,0"/>
+                    <MenuItem x:Name="Fun03" FontSize="12" Header="Conver to PDF (C)" Icon="  3" HorizontalAlignment="Left" Width="210" Click="btnConverToPDF_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun04" FontSize="12" Header="Print Header (H)" Icon="  4"  HorizontalAlignment="Left" Width="210" Click="btnPrintHeader_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun05" FontSize="12" Header="Rename (N)" Icon="  5" HorizontalAlignment="Left" Width="210" Click="btnRename_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun06" FontSize="12" Header="Repath (P)" Icon="  6" HorizontalAlignment="Left" Width="210" Click="btnRepath_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun07" FontSize="12" Header="Search by Letter (S)" Icon="  7" HorizontalAlignment="Left" Width="210" Click="btnSearchByLetter_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="Fun08" FontSize="12" Header="Batch Print (B)" Icon="  8" HorizontalAlignment="Left" Width="210" Click="btnBatchPrint_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                    <MenuItem x:Name="AppExit" FontSize="12" Header="Exit (Alt+F4)" Icon="  x" HorizontalAlignment="Left" Width="210" Click="btnAppExit_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB"/>
+                </MenuItem>
+                <MenuItem Header="Help" Width="45">
+                    <MenuItem x:Name="help" FontSize="12" Header="Info (I)" Icon="  ?" Click="help_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB" />
+                    <MenuItem x:Name="versioninfo" FontSize="12" Header="Version (V)" Icon="  !" HorizontalAlignment="Left" Width="155" Click="VersionInfo_Click" Background="#FFEBEBEB" BorderBrush="#FFEBEBEB" Margin="0,0,-25,0"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+        <Button x:Name="btnDuplexPrint" Width="145" Margin="35,39,0,0" Height="45" Click="btnDuplexPrint_Click" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Left">
+            <TextBlock Width="124" FontSize="14"><Run Text="1. "/><Underline><Run Text="D"/></Underline><Run Text="uplex Print"/></TextBlock>
+        </Button>
+        <Button x:Name="btnDirListAndPrint" Width="145" Margin="35,104,0,0" Height="45" Click="btnDirListAndPrint_Click"   HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="2. "/><Run Text="Dir "/><Underline><Run Text="L"/></Underline><Run Text="ist and Print"/></TextBlock>
+        </Button>
+        <Button x:Name="btnConverToPDF" Width="145" Margin="35,169,0,0" Height="45" Click="btnConverToPDF_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="3. " ></Run><Run Text="C" TextDecorations="Underline"/><Run Text="onvert to PDF"/></TextBlock>
+        </Button>
+        <Button x:Name="btnPrintHeader" Width="145" Margin="35,234,0,0" Height="45" Click="btnPrintHeader_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="4. "/><Run Text="Print "/><Underline><Run Text="H"/></Underline><Run Text="eader"/></TextBlock>
+        </Button>
+        <Button x:Name="btnRename" Width="145" Margin="230,39,0,0" Height="45" Click="btnRename_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="5. "/><Run Text="Re"/><Underline><Run Text="n"/></Underline><Run Text="ame"/></TextBlock>
+        </Button>
+        <Button x:Name="btnRepath" Width="145" Margin="230,104,0,0" Height="45" Click="btnRepath_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="6. "/><Run Text="Re"/><Underline><Run Text="p"/></Underline><Run Text="ath"/></TextBlock>
+        </Button>
+        <Button x:Name="btnSearchByLetter" Width="145" Margin="230,169,0,0" Height="45" Click="btnSearchByLetter_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="7. " /><Run Text="S" TextDecorations="Underline"/><Run Text="earch by Letter"/></TextBlock>
+        </Button>
+        <Button x:Name="btnBatchPrint" Width="145" Margin="230,234,0,0" Height="45" Click="btnBatchPrint_Click" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Width="124" FontSize="14"><Run Text="8. " /><Run Text="B" TextDecorations="Underline"/><Run Text="atch Print"/></TextBlock>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,596 @@
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun03_ConverttoPDF.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun03_ConverttoPDF.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun02_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun02_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun01_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun01_DuplexPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun04_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun04_PrintHeader.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun05_Rename.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun05_Rename.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun06_Repath.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun06_Repath.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun07_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun07_SearchByLetter.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun08_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3)\obj\Debug\Fun08_BatchPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun03_ConvertToPDF.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun02_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun07_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun01_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun04_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun08_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun05_Rename.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun06_Repath.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun03_ConvertToPDF.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun02_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun07_SearchByLetter.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun01_DuplexPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun04_PrintHeader.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun08_BatchPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun05_Rename.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Fun06_Repath.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\Uip (3) (2)\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun03_ConvertToPDF.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun02_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\MainWindow.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun07_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun01_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun04_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun08_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun05_Rename.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun06_Repath.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun03_ConvertToPDF.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun02_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\MainWindow.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun07_SearchByLetter.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun01_DuplexPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun04_PrintHeader.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun08_BatchPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun05_Rename.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Fun06_Repath.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP(백그라운드 문제)\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun3_ConvertToPDF.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun2_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun7_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun1_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun4_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun8_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun5_Rename.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun6_Repath.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun3_ConvertToPDF.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun2_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun7_SearchByLetter.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun1_DuplexPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun4_PrintHeader.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun8_BatchPrint.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun5_Rename.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Fun6_Repath.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2.g.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\frmMain.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\frmMain.baml
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Progress_Dialog.g.cs
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP\obj\Debug\Dialog\Progress_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\WpfApplication2.exe.config
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\HelpInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Progress_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\VersionInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun3_ConvertToPDF.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun2_DirListAndPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\frmMain.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun7_SearchByLetter.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun1_DuplexPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun4_PrintHeader.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun8_BatchPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun5_Rename.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Rename_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun6_Repath.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Repath_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\WordChange_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\App.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2_MarkupCompile.lref
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Ghostscript.NET.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\Ghostscript.NET.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\App.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\HelpInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Progress_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\VersionInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun3_ConvertToPDF.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun2_DirListAndPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\frmMain.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun7_SearchByLetter.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun1_DuplexPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun4_PrintHeader.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun8_BatchPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun5_Rename.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Rename_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\fun6_Repath.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\Repath_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\Dialog\WordChange_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2.g.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.22)\UIP\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\WpfApplication2.exe.config
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2.exe
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2.pdb
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\WpfApplication2.exe
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\WpfApplication2.pdb
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Ghostscript.NET.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\itextsharp.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\Ghostscript.NET.xml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\bin\Debug\itextsharp.xml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Progress_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun3_ConvertToPDF.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun2_DirListAndPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\frmMain.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun7_SearchByLetter.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun1_DuplexPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun4_PrintHeader.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun8_BatchPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun5_Rename.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun6_Repath.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\App.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\App.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Progress_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun3_ConvertToPDF.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun2_DirListAndPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\frmMain.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun7_SearchByLetter.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun1_DuplexPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun4_PrintHeader.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun8_BatchPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun5_Rename.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\fun6_Repath.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2.g.resources
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP_08_22\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP_08_23\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP_08_23\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP_08_23\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\Visual Studio 2015\Projects\UIP_08_23\obj\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\WpfApplication2.exe.config
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\WpfApplication2.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\WpfApplication2.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Ghostscript.NET.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\Ghostscript.NET.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\HelpInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Progress_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\VersionInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun3_ConvertToPDF.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun2_DirListAndPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\frmMain.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun7_SearchByLetter.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun1_DuplexPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun4_PrintHeader.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun8_BatchPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun5_Rename.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Rename_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun6_Repath.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Repath_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\WordChange_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\App.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2_MarkupCompile.lref
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\App.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\HelpInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Progress_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\VersionInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun3_ConvertToPDF.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun2_DirListAndPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\frmMain.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun7_SearchByLetter.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun1_DuplexPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun4_PrintHeader.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun8_BatchPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun5_Rename.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Rename_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\fun6_Repath.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\Repath_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\Dialog\WordChange_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2.g.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24)\UIP (2017.08.24)\bin\Debug\WpfApplication2.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24)\UIP (2017.08.24)\obj\Debug\WpfApplication2.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24)\UIP (2017.08.24)\obj\Debug\WpfApplication2.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\UIP_v0.1.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\UIP_v0.1.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\UIP_v0.1.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Progress_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun3_ConvertToPDF.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun2_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\frmMain.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun7_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun1_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun4_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun8_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun5_Rename.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun6_Repath.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UIP_v0.1_MarkupCompile.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UIP_v0.1_MarkupCompile.lref
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Progress_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun3_ConvertToPDF.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun2_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\frmMain.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun7_SearchByLetter.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun1_DuplexPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun4_PrintHeader.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun8_BatchPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun5_Rename.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\fun6_Repath.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UIP_v0.1.g.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UIP_v0.1.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.24 최종)\UIP (2017.08.24)\obj\Debug\UIP_v0.1.pdb
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.25)\bin\Debug\UIP_v0.1.exe.config
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.25)\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.25)\obj\Debug\UIP_v0.1.exe
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.25)\obj\Debug\UIP_v0.1.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\UIP_v0.1.exe.config
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UIP_v0.1.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UIP_v0.1.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\UIP_v0.1.exe
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\UIP_v0.1.pdb
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Ghostscript.NET.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\itextsharp.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\Ghostscript.NET.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\bin\Debug\itextsharp.xml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Progress_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun3_ConvertToPDF.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun2_DirListAndPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\frmMain.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun7_SearchByLetter.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun1_DuplexPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun4_PrintHeader.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun8_BatchPrint.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun5_Rename.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun6_Repath.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\App.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UIP_v0.1_MarkupCompile.cache
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UIP_v0.1_MarkupCompile.lref
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\App.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Progress_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun3_ConvertToPDF.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun2_DirListAndPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\frmMain.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun7_SearchByLetter.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun1_DuplexPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun4_PrintHeader.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun8_BatchPrint.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun5_Rename.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\fun6_Repath.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UIP_v0.1.g.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Jihoon\Documents\카카오톡 받은 파일\UIP (2017.08.25)_수정\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\UIP_v0.1.exe.config
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UIP_v0.1.exe
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UIP_v0.1.pdb
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\UIP_v0.1.exe
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\UIP_v0.1.pdb
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Ghostscript.NET.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\itextsharp.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\Ghostscript.NET.xml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\bin\Debug\itextsharp.xml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\HelpInfo.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Progress_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\VersionInfo.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun3_ConvertToPDF.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun2_DirListAndPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\frmMain.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun7_SearchByLetter.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun1_DuplexPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun4_PrintHeader.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun8_BatchPrint.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun5_Rename.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Rename_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun6_Repath.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Repath_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\WordChange_Dialog.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\App.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UIP_v0.1_MarkupCompile.cache
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UIP_v0.1_MarkupCompile.lref
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\App.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\HelpInfo.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Progress_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\VersionInfo.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun3_ConvertToPDF.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun2_DirListAndPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\frmMain.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun7_SearchByLetter.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun1_DuplexPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun4_PrintHeader.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun8_BatchPrint.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun5_Rename.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Rename_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\fun6_Repath.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\Repath_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\Dialog\WordChange_Dialog.baml
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UIP_v0.1.g.resources
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\esren\Documents\카카오톡 받은 파일\UIP (2017.08.28)_수정\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\UIP_v0.1.exe.config
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\UIP_v0.1.exe
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\UIP_v0.1.pdb
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Ghostscript.NET.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\itextsharp.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\ToastNotifications.dll
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\Ghostscript.NET.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\bin\Debug\itextsharp.xml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UbisamIntern_Project.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\HelpInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Progress_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\VersionInfo.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun3_ConvertToPDF.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun2_DirListAndPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\frmMain.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun7_SearchByLetter.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun1_DuplexPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun4_PrintHeader.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun8_BatchPrint.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun5_Rename.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Rename_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun6_Repath.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Repath_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\WordChange_Dialog.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\App.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1_MarkupCompile.cache
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1_MarkupCompile.lref
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\App.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\HelpInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Progress_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\VersionInfo.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun3_ConvertToPDF.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun2_DirListAndPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\frmMain.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun7_SearchByLetter.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun1_DuplexPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun4_PrintHeader.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun8_BatchPrint.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun5_Rename.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Rename_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\fun6_Repath.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\Repath_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\Dialog\WordChange_Dialog.baml
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1.g.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\Mac\Home\Documents\단기실습(2017유비샘)\UIP (2017.08.30)_6\obj\Debug\UbisamIntern_Project.csproj.GenerateResource.Cache
+C:\Users\강예진\Desktop\UIP (2017.08.30)_6\UIP (2017.08.30)_6\bin\Debug\UIP_v0.1.exe.config
+C:\Users\강예진\Desktop\UIP (2017.08.30)_6\UIP (2017.08.30)_6\obj\Debug\UbisamIntern_Project.csproj.ResolveComReference.cache
+C:\Users\강예진\Desktop\UIP (2017.08.30)_6\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1.exe
+C:\Users\강예진\Desktop\UIP (2017.08.30)_6\UIP (2017.08.30)_6\obj\Debug\UIP_v0.1.pdb

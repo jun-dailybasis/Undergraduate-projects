@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘 01분반_4팀", "알고리즘 01분반_4팀\알고리즘 01분반_4팀.vcxproj", "{16CA7222-4079-406E-93B8-5A5B2C4348D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CA7222-4079-406E-93B8-5A5B2C4348D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16CA7222-4079-406E-93B8-5A5B2C4348D0}.Debug|Win32.Build.0 = Debug|Win32
+		{16CA7222-4079-406E-93B8-5A5B2C4348D0}.Release|Win32.ActiveCfg = Release|Win32
+		{16CA7222-4079-406E-93B8-5A5B2C4348D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

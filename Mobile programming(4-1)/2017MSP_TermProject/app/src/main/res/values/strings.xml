@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">User Acticity Tracker</string>
+    <string name="Moving_Time">Moving Time: </string>
+    <string name="Step_Count">Step Count: </string>
+    <string name="Top_place">Top place: </string>
+</resources>
